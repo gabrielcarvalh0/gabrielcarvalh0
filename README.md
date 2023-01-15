@@ -2,8 +2,8 @@
 <div align="center">
   <a href="https://github.com/gabrielcarvalh0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcarvalh0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarvalh0&layout=compact&langs_count=7&theme=dracula"/>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcarvalhoa&show_icons=true&theme=transparent)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcarvalhoa&show_icons=true&theme=transparent"/>
+   
 
 </div>
 <div style="display: inline_block"><br>
