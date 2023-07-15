@@ -1,29 +1,15 @@
-## Fala Dev, é um prazer ter você aqui! 👊
-<div align="center">
-  <a href="https://github.com/gabrielcarvalh0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcarvalh0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcarvalhoa&show_icons=true&theme=transparent"/>
-   
+# Gabriel Carvalho
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+Front-end Web Development
+
+![Static Badge](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB)
+![Static Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Static Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
+"In the harmony of prayer, we find the serenity to hear the divine voice, while in diligent work, we transform that inspiration into concrete actions, building a path of meaning and service to the community."
 
- 
-  
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/gabrielcarva1h0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielcarvalho3773@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-carvalho-3867001a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+<br>
+
+[![Logo do Linkedin](https://res.cloudinary.com/dydwaeqqy/image/upload/c_scale,w_20/v1689413865/linkedin-logo-bold_ftrjvd.png)](https://www.linkedin.com/in/gabrielcarvalh0/)
+[![Logo_do_Instagram](https://res.cloudinary.com/dydwaeqqy/image/upload/c_scale,w_20/v1689412557/instagram-logo-bold_prnlsg.png)](https://www.instagram.com/gabrielcarva1h0/)
